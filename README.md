@@ -62,8 +62,6 @@ Roadmap / practice projects (solutions & demos)
 - [Testimonial cards — roadmap.sh project](https://roadmap.sh/projects/testimonial-cards/solutions?u=692234a1467651eddbb9a98a)  
 - [Datepicker UI — roadmap.sh project](https://roadmap.sh/projects/datepicker-ui/solutions?u=692234a1467651eddbb9a98a)
 
-Tip: I can add screenshots, live demos, or short “What I built / My role” bullets for each project.
-
 ---
 
 ## What I'm building now
@@ -87,20 +85,6 @@ I’m an advocate for pitbull awareness — I own two pitbulls and I’m buildin
 - Business: Freelancer/Founder @ SASSy.code Web Development contact me              summerdavis@sassycodewebdev.onmicrosoft.com
 ---
 
-## Fun                                                                    ,
-I’m a HUGE Pitbull Advocate, Lover,and owner/pack-momma. The unconditonal love from my pitties is what led me to  breed end to the stigma through educating others about the breed, promoting responsible ownership, & shelter adoptions (ending unnecessary euthanasia).
-
-
----
-
-## Want this polished further?
-I can:
-- add project screenshots, GIFs or live demo embeds
-- show GitHub stats / top languages (with theme you prefer)
-- include a downloadable resume link
-- add a contact form / email obfuscation for spam protection
-- convert this to a themed README with custom colors and section icons
-
----
-
-Thanks for reading — if you'd like this version adjusted or exported as a ready-to-paste README.md, tell me which details to update and I’ll regenerate it for you!
+## Fun Fact                                                                
+I’m a HUGE Pitbull Advocate, Lover,and owner/pack-momma of two pit bulls and a wire-hair fox/pinscher mix. The unconditonal love from my doggy's is my reason to want to help put an end to their stigma! Breed Specific Legislation (BSL) is unfair and unjust! Laws that restrict or ban specific dog breeds (most commonly, pit bulls) based on appearance rather than behavior. I will continue educating others about the breed, promoting responsible ownership, & shelter adoptions (ending unnecessary euthanasia). Be a voice for the voiceless, I am continuously working on Unleashing Truth: Pitbull Advocacy website and hope to have it up and running soon. Check back with me to see if I have added a URL for Unleashing Truth! You will have the chance to buy pit bull apparel from the site. Thanks and God bless!
+Summer
