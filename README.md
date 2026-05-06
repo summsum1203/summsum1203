@@ -50,7 +50,7 @@ Strengths
 ## Featured projects
 
 - **Unleashing Truth — Pitbull Advocacy Website**  
-  The very first website I built in my WEBD121 course. An advocacy site focused on education, training, and supporting shelter adoptions to fight the stigma against pit bulls. (If you'd like, I can add the repo or live demo link here.)
+  The very first website I built in my WEBD121 course. An advocacy site focused on education, training, and supporting shelter adoptions to fight the stigma against pit bulls.
 
 - **Simple HTML CV** — single-page resume  
   Live: [Single-Page CV](https://summsum1203.github.io/Single-Page-CV/)
@@ -65,7 +65,7 @@ Roadmap / practice projects (solutions & demos)
 ---
 
 ## What I'm building now
-As a freelancer at SASSy.code Web Development I create accessible, on-brand websites for small businesses and advocacy groups — with a focus on SASS-based styling systems and component-driven UI. I’m also actively developing the Unleashing Truth advocacy site for pitbull awareness and shelter support.
+As a freelancer at SASSy.code Web Development I create accessible, on-brand websites for small businesses and advocacy groups — with a focus on SASS-based styling systems and component-driven UI. I’m also actively developing the Unleashing Truth advocacy site for pitbull awareness and shelter support. alongside the website for SASSy.code.
 
 ---
 
