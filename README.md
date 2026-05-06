@@ -7,9 +7,9 @@ She / Her • Newport, TN • Open to work — actively looking
 ---
 
 ## About me
-I'm Summer Davis — a Computer Technology student and passionate advocate who builds accessible web experiences with flair. I care deeply about inclusivity, strong visual design, and clear, usable interfaces that welcome everyone.
+I'm Summer Davis — a Computer Information Technology student at Austin Peay State University and passionate advocate who builds accessible web experiences with flair. I care deeply about inclusivity, strong visual design, and clear, usable interfaces that welcome everyone.
 
-- 🔭 Currently: Freelancer at **SASSy.code Web Development**
+- 🔭 Currently: Freelancer & Founder of **SASSy.code Web Development**
 - 🌱 Learning: Advanced accessible UI patterns, component-driven design, and progressive enhancement. 
 - 👯 Open to: freelance projects, collaborations on advocacy or community sites, mentorship and team work
 - 💬 Ask me about: accessible front-end development, SASS, component design, and advocacy-driven websites
@@ -81,10 +81,16 @@ I’m an advocate for pitbull awareness — I own two pitbulls and I’m buildin
 - Twitter / X: https://www.twitter.com/@summerdavi60766
 - roadmap.sh: https://www.roadmap.sh/u/summerdavis
 - daily.dev: https://www.app.daily.dev/summerdavis
-- LinkedIn: https://www.linkedin.com/in/summer-davis-61a826248
-- Business: Freelancer/Founder @ SASSy.code Web Development contact me              summerdavis@sassycodewebdev.onmicrosoft.com
+- LinkedIn: https://www.linkedin.com/in/summer-davis-dev
+- Business: Freelancer/Founder @ SASSy.code Web Development contact me              summerdavis@sassycodewebdevelopment.com
 ---
 
 ## Fun Fact                                                                
-I’m a HUGE Pitbull Advocate, Lover,and owner/pack-momma of two pit bulls and a wire-hair fox/pinscher mix. The unconditonal love from my doggy's is my reason to want to help put an end to their stigma! Breed Specific Legislation (BSL) is unfair and unjust! Laws that restrict or ban specific dog breeds (most commonly, pit bulls) based on appearance rather than behavior. I will continue educating others about the breed, promoting responsible ownership, & shelter adoptions (ending unnecessary euthanasia). Be a voice for the voiceless, I am continuously working on Unleashing Truth: Pitbull Advocacy website and hope to have it up and running soon. Check back with me to see if I have added a URL for Unleashing Truth! You will have the chance to buy pit bull apparel from the site. Thanks and God bless!
+I’m a huge pit bull lover, proud pack‑momma, and dedicated advocate for my two pit bulls and my wire‑haired dachshund/pinscher mix. The unconditional love my pups give me every single day is what fuels my passion to help end the stigma surrounding their breed.
+
+Breed‑specific legislation—laws that restrict or ban dogs based solely on appearance rather than behavior—continues to harm families and cost countless innocent dogs their lives. Through education, responsible ownership, and promoting shelter adoption, I’m committed to being a voice for the voiceless and helping put an end to unnecessary euthanasia.
+
+I’m currently building Unleashing Truth: Pit Bull Advocacy, a website dedicated to sharing facts, resources, and real stories that challenge misinformation and celebrate the true nature of these incredible dogs. Check back soon—I’ll be adding the official URL once the site is live. You’ll also be able to shop pit bull–themed apparel to support the mission.
+
+Thank you, and God bless.
 Summer
