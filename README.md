@@ -22,6 +22,7 @@ I'm Summer Davis — a Computer Information Technology student at Austin Peay St
 Languages, frameworks, design, and soft skills I use regularly:
 
 Frontend & Styling
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -29,17 +30,20 @@ Frontend & Styling
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 Backend, Data & Tools
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 Design & Accessibility
+
 ![Accessibility](https://img.shields.io/badge/Accessibility-WCAG%202.1%20AA-005A9C?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Color Theory](https://img.shields.io/badge/Color%20Theory-8A2BE2?style=for-the-badge)
 ![Typography](https://img.shields.io/badge/Typography-000000?style=for-the-badge)
 
 Strengths
+
 ![Analytical](https://img.shields.io/badge/Analytical-6A5ACD?style=for-the-badge)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-2E8B57?style=for-the-badge)
 ![Advocacy](https://img.shields.io/badge/Advocacy-FF69B4?style=for-the-badge)
